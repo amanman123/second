@@ -5,4 +5,5 @@ package com.am;
  */
 public class SecondController {
     public void min(){}
+    public void max(){}
 }
