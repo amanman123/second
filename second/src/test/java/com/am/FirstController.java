@@ -7,5 +7,8 @@ public class FirstController {
     public void change(){
 
     }
+    public void changee(){
+
+    }
 
 }
